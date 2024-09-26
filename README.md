@@ -2,6 +2,13 @@
 
 This repository contains the project report and related findings for the ENPM695 – Secure Operating System** course at the University of Maryland, taught and supervised by **Prof. Ido Dubrawsky**. Our team, A2DSP, conducted an in-depth vulnerability assessment on a Linux virtual machine to evaluate its security posture and analyze potential security risks.
 
+**Project Team Members**
+- Aashrut Pant
+- Divye Raghav
+- Anmol Chaudhary
+- Surya Saketh Korlepara
+- Pranay Venkata Bhamidipati
+
 ## **Project Overview**
 
 We were provided with a Linux virtual machine, **ENPM695 Project Target System**, which exhibited unusual behavior, prompting us to investigate and uncover any breaches or security issues. The goal of this project was to:
