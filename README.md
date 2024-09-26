@@ -1,6 +1,6 @@
 # **VulnHunt: Linux System Security Assessment and Privilege Escalation**
 
-This repository contains the project report and related findings for the ENPM695 – Secure Operating System** course at the University of Maryland, taught and supervised by **Prof. Ido Dubrawsky**. Our team, A2DSP, conducted an in-depth vulnerability assessment on a Linux virtual machine to evaluate its security posture and analyze potential security risks.
+This repository contains the project report and related findings for the ENPM695 – Secure Operating System course at the University of Maryland, taught and supervised by Prof. Ido Dubrawsky. Our team, A2DSP, conducted an in-depth vulnerability assessment on a Linux virtual machine to evaluate its security posture and analyze potential security risks.
 
 **Project Team Members**
 - Aashrut Pant
